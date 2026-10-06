@@ -1,0 +1,9 @@
+{
+  "base_date": "2026-10-05",
+  "generated_at": "2026-10-07 00:58:45 +0800",
+  "scanned_count": 1058,
+  "coverage_ok": 1063,
+  "coverage_error": 0,
+  "source_note": "证券清单：TWSE ISIN Listed Equities（含TWSE/TPEx股票）；中文名称：台湾交易所证券清单；最新市值：Yahoo Finance marketCap，单位为亿新台币；行情/K线：Yahoo Finance chart API。",
+  "gap_note": "Yahoo Finance market data failures are recorded in yahoo_diagnostics.csv; any missing symbols are excluded from calculated pools. Market caps are provider-reported latest values and may be unavailable for some symbols."
+}

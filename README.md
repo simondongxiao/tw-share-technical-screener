@@ -2,7 +2,7 @@
 
 Published entry: https://simondongxiao.github.io/tw-share-technical-screener/
 
-Generated at: 2026-10-07 09:37:33 +0800
+Generated at: 2026-10-07 11:33:27 +0800
 
 Base trading date: 2026-10-06
 

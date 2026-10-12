@@ -1,9 +1,9 @@
-# HK Share Technical Screener
+# Taiwan Share Technical Screener
 
-Published entry: https://simondongxiao.github.io/hk-share-technical-screener/
+Published entry: https://simondongxiao.github.io/tw-share-technical-screener/
 
-Generated at: 2026-10-09 17:26:00 +0800
+Generated at: 2026-10-12 19:52:09 +0800
 
-Base trading date: 2026-10-08
+Base trading date: 2026-10-12
 
-Data sources: HKEX List of Securities for universe; Sina HK quote API for Chinese short names; Tencent HK quote API for market cap; Yahoo Finance chart API for price/K-line fallback.
+Data sources: TWSE/TPEx ordinary-share universe; base-date close × issued ordinary shares for market cap; Yahoo Finance chart API for price/K-line. Main business/sub-sector labels combine official industry codes with conservative company-level refinements; unresolved cases are explicitly marked pending verification.
